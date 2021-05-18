@@ -1,8 +1,12 @@
 # multimediaplayer
 
-A new Flutter project.
+Android App designed using Flutter to play music/audio and video files
 
-## Getting Started
+Packages Used: mentioned in [pubspec.yaml](pubspec.yaml)
+
+Added assets/videos/ to [.gitignore](.gitignore) due to huge size
+
+## Start building your own Apps
 
 This project is a starting point for a Flutter application.
 
