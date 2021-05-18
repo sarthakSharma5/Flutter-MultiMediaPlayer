@@ -6,6 +6,8 @@ Packages Used: mentioned in [pubspec.yaml](pubspec.yaml)
 
 Added assets/videos/ to [.gitignore](.gitignore) due to huge size
 
+<HR>
+
 ## Start building your own Apps
 
 This project is a starting point for a Flutter application.
